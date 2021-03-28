@@ -1,4 +1,10 @@
-{"name":"myada","ticker":"MYADA","description":"myada staking pool","homepage":"https://myada-pool.com","nonce":"1615703294"}
+{
+  "name": "cash1",
+  "ticker": "CASH1",
+  "description": "Cardano Cash Pool!",
+  "homepage": "https://{",
+  "nonce": "1616927055"
+}
 
 
 
